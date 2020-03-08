@@ -37,7 +37,7 @@ description: '네이버 서치 어드바저에 내 사이트를 등록하는 법
 
 ## STEP1. 사이트 등록하기
 
-1. 네이버 서치 어드바이저에 들어가서 네이버 아이디로 로그인합니다: https://searchadvisor.naver.com/
+1. 네이버 서치 어드바이저에 들어가서 네이버 아이디로 로그인합니다:[네이버서치어드바이저 링크](https://searchadvisor.naver.com/, "naversearchadvisor link")
 2. 상단의 '웹마스터 도구'를 클릭하고, 연동 사이트 목록에 사이트를 추가합니다.
 
 ![사이트등록하기](/img/posts/003/02.jpg)
@@ -56,7 +56,8 @@ description: '네이버 서치 어드바저에 내 사이트를 등록하는 법
 
 ## STEP2. 사이트 진단하기
 
-내 사이트가 네이버 검색 로봇이 정상적으로 방문이 가능한 사이트인지 확인하고 싶다면 사이트 간단 체크를 통해 조회할 수 있어요! 로그인 계정 기준 일간 10회만 조회 가능한 점은 참고! 진단 결과 느낌표가 뜨는게 있다면 안내에 따라 수정해주시면 됩니다! 진단하기: https://searchadvisor.naver.com/diagnose
+내 사이트가 네이버 검색 로봇이 정상적으로 방문이 가능한 사이트인지 확인하고 싶다면 사이트 간단 체크를 통해 조회할 수 있어요! 로그인 계정 기준 일간 10회만 조회 가능한 점은 참고! 진단 결과 느낌표가 뜨는게 있다면 안내에 따라 수정해주시면 됩니다!
+* [진단하기 링크](https://searchadvisor.naver.com/diagnose, "naverdiagnose link")
 
 ![사이트진단하기](/img/posts/003/04.jpg)
 
@@ -83,5 +84,7 @@ description: '네이버 서치 어드바저에 내 사이트를 등록하는 법
 -----
 
 ## 네이버 서치 어드바이저 안내가이드 다운받기:
+* [다운로드 링크](https://searchadvisor.naver.com/guide/education-basic
+, "naversearchadvisorguide link")
 
-* https://searchadvisor.naver.com/guide/education-basic
+   
