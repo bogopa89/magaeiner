@@ -50,7 +50,7 @@ description: '네이버 서치 어드바저에 내 사이트를 등록하는 법
 1. 구글 서치 콘솔 사이트에 접속
 구글 서치 콘솔 사이트에 접속 후 왼쪽에 있는 도메인에 내 도메인을 입력하고 계속 버튼을 누릅니다. 예: google.com ('https://www' 제외)
 
-* 구글 서치 콘솔 사이트: https://search.google.com/search-console/about
+* [구글서치콘솔사이트 링크](https://search.google.com/search-console/about, "link")
 
 ![사이트등록하기](/img/posts/004/02.jpg)
 
@@ -77,6 +77,6 @@ Cloudflare는 DNS(Domain Name Server) 서비스를 제공해주는 회사로, Cl
 * 약 2주 후 구글 검색결과에 내 웹사이트(블로그)가 노출되는지 확인합니다.
 
 ![사이트맵등록하기](/img/posts/004/05.jpg)
-   
+
 
 -----
