@@ -47,7 +47,6 @@ description: '네이버 서치 어드바저에 내 사이트를 등록하는 법
 
 ## STEP1. 사이트 등록하기
 1. 구글 서치 콘솔 사이트에 접속
-
 구글 서치 콘솔 사이트에 접속 후 왼쪽에 있는 도메인에 내 도메인을 입력하고 계속 버튼을 누릅니다. 예: google.com ('https://www' 제외)
 
 * [구글서치콘솔사이트 링크](https://search.google.com/search-console/, "googlesearchconsole link")
@@ -64,9 +63,8 @@ description: '네이버 서치 어드바저에 내 사이트를 등록하는 법
 * DNS 입력 창에서 TXT를 선택하고, Name 에는 @를 입력, 'click to configure'에는 방금 복사한 코드를 붙여놓고 [Add record] 버튼을 누릅니다.
 
 Cloudflare는 DNS(Domain Name Server) 서비스를 제공해주는 회사로, Cloudflare를 이용하지 않으신다면, 본인의 웹사이트 DNS를 관리하는 곳으로 이동하여 설정을 바꾸시면 됩니다.
-
 ![DNS등록](/img/posts/004/04.jpg)
-
+   
 4. 도메인 소유권 확인
 5분 정도 후 다시 구글 서치 콘솔로 돌아와 [확인]을 눌러 소유권 확인을 완료합니다.
 
