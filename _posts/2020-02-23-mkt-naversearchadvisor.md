@@ -86,5 +86,3 @@ description: '네이버 서치 어드바저에 내 사이트를 등록하는 법
 ## 네이버 서치 어드바이저 안내가이드 다운받기:
 * [다운로드 링크](https://searchadvisor.naver.com/guide/education-basic
 , "naversearchadvisorguide link")
-
-   

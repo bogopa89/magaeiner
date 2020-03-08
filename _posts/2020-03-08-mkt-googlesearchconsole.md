@@ -46,8 +46,8 @@ description: '네이버 서치 어드바저에 내 사이트를 등록하는 법
 -----
 
 ## STEP1. 사이트 등록하기
-
 1. 구글 서치 콘솔 사이트에 접속
+
 구글 서치 콘솔 사이트에 접속 후 왼쪽에 있는 도메인에 내 도메인을 입력하고 계속 버튼을 누릅니다. 예: google.com ('https://www' 제외)
 
 * [구글서치콘솔사이트 링크](https://search.google.com/search-console/, "googlesearchconsole link")
