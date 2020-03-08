@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /notes01/what_digitalmarketers_do/
-title: '외국계 디지털 마케터는 어떤 일을 하나요?'
+title: '1. 외국계 디지털 마케터는 어떤 일을 하나요?'
 date: 2020-02-09 21:30:00 +09:00
 feature: '/img/posts/002/thumbnail_notes01.jpg'
 background: '/img/posts/002/bg_notes01.jpg'
