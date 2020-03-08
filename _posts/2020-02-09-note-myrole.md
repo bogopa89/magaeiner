@@ -6,7 +6,7 @@ date: 2020-02-09 21:30:00 +09:00
 feature: '/img/posts/002/thumbnail_notes01.jpg'
 background: '/img/posts/002/bg_notes01.jpg'
 categories:
-  - gojeon-novel
+  - notes
 tags:
   - 디지털마케팅
   - 디지털마케터
