@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /mkt03/facebook/contentsmarketing
-title: '2. 구글 서치 콘솔'
+title: '3. 페이스북 콘텐츠 마케팅'
 date: 2020-03-22 21:00:00 +09:00
 feature: '/img/posts/005/thumbnail_facebookcontent.jpg'
 background: '/img/posts/005/bg_facebookcontent.jpg'
@@ -40,7 +40,8 @@ description: '페이스북 콘텐츠마케팅, 페이지와 그룹에 답이 있
 ![페이지그룹연결](/img/posts/005/02.jpg)
 
 마크 저커버그의 발표에도 힌트가 있듯, 페이스북 '그룹'이 '페이지'를 보완하여 시너지를 낼 수 있을 것이라고 생각합니다. 페이스북 '페이지'를 통해 잠재고객에게 콘텐츠를 전달하는데 활용하고, '그룹'을 통해 고객들과 소통하고 로얄티를 이끌어 낼 수 있지 않을까요? 특히나 네이버나 다음카페를 통해 운영되던 체험단과 팬클럽 같은 로얄티 프로그램을 했던 것과 같이 페이스북 '그룹'을 활용할 수 있을 것 같습니다. 페이스북 페이지와 그룹은 상호연결이 가능하여며, 게시글 또한 자유롭게 공유가 가능하다는 장점도 있어요.
-* [연결가이드 링크](https://www.facebook.com/help/1769476376397128/?helpref=hc_fnav,"facebookpagegroup_link")
+[연결가이드 링크](https://www.facebook.com/help/1769476376397128/?helpref=hc_fnav,"facebookpagegroup_link")
+
 ------
 
 ## 페이스북 페이지와 그룹은 뭐가 다른가요?
@@ -79,10 +80,10 @@ description: '페이스북 콘텐츠마케팅, 페이지와 그룹에 답이 있
 
 03. 비즈니스관리자에서 페이지 연결하기
 ![비즈니스관리자페이지연결](/img/posts/005/08.jpg)
------
+------
 
 
 ## TIP: 만약 페이지를 개설했는데 '샵'탭을 찾을 수 없다면!
 샵 탭을 찾을 수 없다면 페이지 템플릿을 쇼핑 템플릿으로 변경하세요: 페이지 >> 설정 >> 템플릿 및 탭 >> 쇼핑으로 변경하거나 탭 추가 진행
 ![페이지샵탭](/img/posts/005/09.jpg)
------
+------
