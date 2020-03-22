@@ -79,8 +79,9 @@ STEP 1. 비즈니스관리자란?
 ![비즈니스관리자계정](/img/posts/005/06.jpg)
 
 STEP 2.비즈니스관리자 만들기
-* [비즈니스관리자 링크](business.facebook.com,"facebookbusinessmanager_link")
 ![비즈니스관리자생성](/img/posts/005/07.jpg)
+[비즈니스관리자 링크](business.facebook.com,"facebookbusinessmanager_link")
+
 
 STEP 3. 비즈니스관리자에서 페이지 연결하기
 ![비즈니스관리자페이지연결](/img/posts/005/08.jpg)
