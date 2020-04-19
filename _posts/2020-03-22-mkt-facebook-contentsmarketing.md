@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /mkt03/facebook/contentsmarketing
-title: '3. 페이스북 콘텐츠 마케팅'
+title: '페이스북 콘텐츠 마케팅'
 date: 2020-03-22 21:00:00 +09:00
 feature: '/img/posts/005/thumbnail_facebookcontent.jpg'
 background: '/img/posts/005/bg_facebookcontent.jpg'

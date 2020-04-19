@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /mkt02/googlesearchconsole/
-title: '2. 구글 서치 콘솔'
+title: '구글 서치 콘솔'
 date: 2020-03-08 22:00:00 +09:00
 feature: '/img/posts/004/thumbnail_googlesearchconsole.jpg'
 background: '/img/posts/004/bg_googlesearchconsole.jpg'
@@ -64,7 +64,7 @@ description: '네이버 서치 어드바저에 내 사이트를 등록하는 법
 
 Cloudflare는 DNS(Domain Name Server) 서비스를 제공해주는 회사로, Cloudflare를 이용하지 않으신다면, 본인의 웹사이트 DNS를 관리하는 곳으로 이동하여 설정을 바꾸시면 됩니다.
 ![DNS등록](/img/posts/004/04.jpg)
-   
+
 4. 도메인 소유권 확인
 5분 정도 후 다시 구글 서치 콘솔로 돌아와 [확인]을 눌러 소유권 확인을 완료합니다.
 

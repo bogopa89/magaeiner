@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /mkt01/naversearchadvisor/
-title: '1. 내 사이트가 검색되게 하려면? 네이버 서치 어드바이저 등록하기'
+title: '내 사이트가 검색되게 하려면? 네이버 서치 어드바이저 등록하기'
 date: 2020-02-23 21:00:00 +09:00
 feature: '/img/posts/003/thumbnail_searchadvisor.jpg'
 background: '/img/posts/003/bg_searchadvisor.jpg'
