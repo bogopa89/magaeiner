@@ -101,9 +101,9 @@ description: '카카오톡 채널, 친구톡, 알림톡.. 뭐가 다른지 모�
 
 ## TIP: 카카오톡 채널 참고자료
 아래 사이트를 통해 카카오톡 채널 및 비즈메세지 관련 자료들을 확인할 수 있습니다.
-* [카카오톡채널공식홈페이지](https://center-pf.kakao.com,"kakaochannel")
-* [카카오for비즈니스](https://business.kakao.com/, "kakaobusiness")
-* [카카오톡채널이용가이드](https://bit.ly/3czCkwd, "kakaochannelguide")
+* [카카오톡채널공식홈페이지](https://center-pf.kakao.com "kakaochannel")
+* [카카오for비즈니스](https://business.kakao.com "kakaobusiness")
+* [카카오톡채널이용가이드](https://bit.ly/3czCkwd "kakaochannelguide")
 
 
 ------
