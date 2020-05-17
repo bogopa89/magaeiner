@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /mkt06/facebookmessenger
+permalink: /mkt06/facebookchatbot
 title: '페이스북 메신저 챗봇 만들기'
 date: 2020-05-17 09:00:00 +09:00
 feature: '/img/posts/009/thumbnail_facebookchatbot.png'
