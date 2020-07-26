@@ -7,6 +7,7 @@ feature: '/img/posts/009/thumbnail_facebookchatbot.png'
 background: '/img/posts/009/bg_facebookchatbot.png'
 categories:
   - digitalmarketing
+content_id: 0009
 tags:
   - 페이스북메신저
   - 페이스북메신저 플러그인

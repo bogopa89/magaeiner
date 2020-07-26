@@ -7,6 +7,7 @@ feature: '/img/posts/004/thumbnail_googlesearchconsole.jpg'
 background: '/img/posts/004/bg_googlesearchconsole.jpg'
 categories:
   - digitalmarketing
+content_id: 0004
 tags:
   - 구글 서치 콘솔
   - 구글서치콘솔

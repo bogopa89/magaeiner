@@ -7,6 +7,7 @@ feature: '/img/posts/010/thumbnail_emailmarketing.png'
 background: '/img/posts/010/bg_emailmarketing.png'
 categories:
   - digitalmarketing
+content_id: 0010
 tags:
   - 이메일마케팅
   - 이메일

@@ -7,6 +7,7 @@ feature: '/img/posts/003/thumbnail_searchadvisor.jpg'
 background: '/img/posts/003/bg_searchadvisor.jpg'
 categories:
   - digitalmarketing
+content_id: 0003
 tags:
   - 네이버 서치 어드바이저
   - 네이버 검색

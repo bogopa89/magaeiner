@@ -7,6 +7,7 @@ feature: '/img/posts/005/thumbnail_facebookcontent.jpg'
 background: '/img/posts/005/bg_facebookcontent.jpg'
 categories:
   - digitalmarketing
+content_id: 0005
 tags:
   - 페이스북
   - 페이스북콘텐츠마케팅

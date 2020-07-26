@@ -7,6 +7,7 @@ feature: '/img/posts/002/thumbnail_notes01.jpg'
 background: '/img/posts/002/bg_notes01.jpg'
 categories:
   - notes
+content_id: 0002
 tags:
   - 디지털마케팅
   - 디지털마케터

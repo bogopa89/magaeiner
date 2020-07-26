@@ -7,6 +7,7 @@ feature: '/img/posts/007/thumbnail_kakao.png'
 background: '/img/posts/007/bg_kakao.png'
 categories:
   - digitalmarketing
+content_id: 0007
 tags:
   - 카카오톡메신저
   - 카카오톡채널

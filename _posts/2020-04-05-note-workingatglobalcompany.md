@@ -7,6 +7,7 @@ feature: '/img/posts/006/thumbnail_globalcompany.jpg'
 background: '/img/posts/006/bg_globalcompany.jpg'
 categories:
   - notes
+content_id: 0006
 tags:
   - 외국계최업
   - 외국계기업장점
