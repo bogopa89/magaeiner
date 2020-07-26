@@ -7,6 +7,7 @@ feature: '/img/posts/011/thumbnail_changingjob.jpg'
 background: '/img/posts/011/bg_changingjob.jpg'
 categories:
   - notes
+content_id: 0011
 tags:
   - 외국계이직
   - 외국계취업
