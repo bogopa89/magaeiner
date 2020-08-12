@@ -1,19 +1,19 @@
 title:              "Digital Marketer's Note"
 tagline:            "Digital Marketing & Adobe Analytics Guide"
 email:              "ayoungshin0728@gmail.com"
-description:        "블로그 설명"
+description:        "디지털 마케팅에 필요한 기본적인 내용과 어도비 애널리틱스 기초, 그리고 디지털 마케팅 실무를 하면서 알게 된 내용이나 유용한 팁을 다룹니다. 최근에 디지털 마케터로 커리어를 전향하시거나 시작하신 초보 디지털 마케터에게 적합한 블로그입니다."
 author:             "신아영"
 baseurl:            "/"
 url:                "https://ayoungshin.com"
 locale:             "ko_KR"
 thumbnail:          "/img/thumbnail.jpg"
-content_id: '0000'
+
 
 # Social Profiles
 twitter_username:   twitter_username
 instagram_username: instagram_username
-facebook_username:  facebook_username
-linkedin_username:  linkedin_username
+facebook_username:  https://www.facebook.com/A0shin
+linkedin_username:  https://www.linkedin.com/in/ayoungshin0728/
 
 # 블로그 disqus shortname
 disqus:
